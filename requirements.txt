@@ -2,3 +2,4 @@ Flask
 requests
 requests-oauthlib
 python-dotenv
+//.env for cred storage
